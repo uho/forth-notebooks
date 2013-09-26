@@ -63,10 +63,3 @@ shell files with your access rights.
 3. Once your browser starts with IPython, open one of the sample notebooks such as 
    hello-forth.pynb .
 
-
- 
-
-
-
-
-
