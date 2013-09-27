@@ -47,7 +47,7 @@ Run the command setup.sh
     
     $ source setup.sh
 
-or inspect the file and run its commands manually if you don't want to run arbitray
+or inspect the file and run its commands manually if you don't want to run arbitrary
 shell files with your access rights.
 
 ## Running Forth notebooks
