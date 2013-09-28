@@ -61,5 +61,7 @@ shell files with your access rights.
     $ ipython notebook --matplotlib=inline
 
 3. Once your browser starts with IPython, open one of the sample notebooks such as 
-   [hello-forth.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/uho/forth-notebooks/master/hello-forth.ipynb).
+   [hello-forth.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/uho/forth-notebooks/master/hello-forth.ipynb)
+   or [stack-reverse.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/uho/forth-notebooks/master/stack-reverse.ipynb).
+
 
